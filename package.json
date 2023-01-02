@@ -1,0 +1,23 @@
+{
+  "name": "jsexpert-javascript-testing",
+  "version": "1.0.0",
+  "description": "Module 2 - Javascript testing.\r TDD & BDD Project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesfc/jsexpert-javascript-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesfc/jsexpert-javascript-testing/issues"
+  },
+  "homepage": "https://github.com/wesfc/jsexpert-javascript-testing#readme"
+}
